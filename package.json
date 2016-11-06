@@ -1,0 +1,32 @@
+{
+  "name": "clockit",
+  "version": "1.0.0",
+  "description": "Simple high resolution timer for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotchev/clockit.git"
+  },
+  "keywords": [
+    "hrtime",
+    "hires",
+    "timer",
+    "chronometer",
+    "clock",
+    "nanoseconds",
+    "milliseconds",
+    "microseconds"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "author": "Peter Dotchev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotchev/clockit/issues"
+  },
+  "homepage": "https://github.com/dotchev/clockit#readme"
+}
