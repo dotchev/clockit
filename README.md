@@ -9,7 +9,7 @@ No need to multiply and divide to get desired measurement units.
 
 Timer precision is a nanosecond.
 
-***Note:** requires Node.js 4 or later.
+**Note:** requires Node.js 4 or later.
 
 ## Install
 
