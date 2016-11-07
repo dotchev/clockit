@@ -1,6 +1,6 @@
 {
   "name": "clockit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple high resolution timer for node",
   "main": "index.js",
   "scripts": {
