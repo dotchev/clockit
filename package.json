@@ -23,6 +23,9 @@
   "engines": {
     "node": ">=4"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "Peter Dotchev",
   "license": "MIT",
   "bugs": {
