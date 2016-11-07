@@ -1,4 +1,5 @@
 [![npm](https://img.shields.io/npm/v/clockit.svg)](https://www.npmjs.com/package/clockit)
+[![Build Status](https://travis-ci.org/dotchev/clockit.svg?branch=master)](https://travis-ci.org/dotchev/clockit)
 
 # clockit
 Simple high resolution timer for node
